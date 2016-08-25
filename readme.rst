@@ -66,7 +66,8 @@ Nov 25   **no class** (Thanksgiving)
 Dec 2    scikit-learn
 
 Dec 9    tbd
-======== ======================================================== =========
+======== ============================================ =========
+
 
 
 .. _Anaconda: https://www.continuum.io/downloads
