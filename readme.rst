@@ -19,15 +19,16 @@ Some Useful Links
   * `The Python Tutorial`_ (the official tutorial)
   * `Python Standard Library`_ (standard library resources)
   * `Style Guide for Python`_ (how to do it)
-  * `The Zen of Python`_::
-      import this
+  * `The Zen of Python`_ (>> import this)
 
 
 Timeline for Fall 2016:
 -----------------------
 
-  * Sept 2: **no class**
-    *homework*: make python work on your computer! Feel free to use an integrated development environment (IDE), but you might as well just use a text editor and a terminal/shell (that's what I usually do).
+Sept 2: **no class**
+~~~~~~~~~~~~~~~~~~~~
+*homework*: make python work on your computer! Feel free to use an integrated development environment (IDE), but you might as well just use a text editor and a terminal/shell (that's what I usually do).
+
 
   * Sept 9: python basics, datatypes, strings, lists
   * Sept 16: more lists, dictionaries, sets
