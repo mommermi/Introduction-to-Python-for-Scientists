@@ -26,28 +26,44 @@ Some Useful Links
 Timeline for Fall 2016:
 -----------------------
 
-Sept 2: **no class** 
-   *homework*: make python work on your computer!
-   Feel free to use an integrated development environment (IDE), but you
-   might as well just use a text editor and a terminal/shell (that's what
-   I usually do).
+======== ======================================================== =========
+Sept 2   **no class**                                                        
 
+         *homework*: make python work on your computer!
+	 Feel free to use an integrated development environment 
+	 (IDE), but you might as well just use a text editor and 
+	 a terminal/shell (that's what I usually do).
 
-  * Sept 9: python basics, datatypes, strings, lists
-  * Sept 16: more lists, dictionaries, sets
-  * Sept 23: control flow, file i/o, modules, exceptions, classes
-  * Sept 30: modules, standard libraries: math, os, datetime, urllib2, subprocess
-  * Oct 7: **no class**
-  * Oct 14: numpy: basics, arrays 
-  * Oct 21: **no class**
-  * Oct 28: more numpy: structured arrays, file i/o ,random, statistics, linalg
-  * Nov 4: matplotlib
-  * Nov 11: **no class** (Veteran's Day)
-  * Nov 18: scipy
-  * Nov 25: **no class** (Thanksgiving)
-  * Dec 2: scikit-learn
-  * Dec 9: tbd
+Sept 9   python basics, datatypes, strings, lists                 
 
+Sept 16  more lists, dictionaries, sets                           
+
+Sept 23  control flow, file i/o, modules, exceptions, classes     
+
+Sept 30  modules, standard libraries: math, os, datetime,         
+         urllib2, subprocess
+
+Oct 7    **no class**                                             
+
+Oct 14   numpy: basics, arrays 
+
+Oct 21   **no class**
+
+Oct 28   more numpy: structured arrays, file i/o, random, 
+         statistics, linalg
+
+Nov 4    matplotlib
+
+Nov 11   **no class** (Veteran's Day)
+
+Nov 18   scipy
+
+Nov 25   **no class** (Thanksgiving)
+
+Dec 2    scikit-learn
+
+Dec 9    tbd
+======== ======================================================== =========
 
 
 .. _Anaconda: https://www.continuum.io/downloads
