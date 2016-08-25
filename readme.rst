@@ -27,6 +27,8 @@ Timeline for Fall 2016:
 -----------------------
 
 ======== ============================================ =========
+Lecture  Topics                                       Notes
+======== ============================================ =========
 Sept 2   **no class**                                                        
 
          *homework*: make python work on your 
@@ -67,7 +69,6 @@ Dec 2    scikit-learn
 
 Dec 9    tbd
 ======== ============================================ =========
-
 
 
 .. _Anaconda: https://www.continuum.io/downloads
