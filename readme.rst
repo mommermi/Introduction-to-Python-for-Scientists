@@ -39,7 +39,7 @@ Sept 2   **no class**
 	 (that's what I usually do).
 
 Sept 9   some logistics, python basics, datatypes,    `introduction`_
-         strings, lists                 
+         strings, lists                               `20160909_notes`_
 
 Sept 16  more lists, dictionaries, sets                           
 
@@ -81,6 +81,7 @@ Dec 9    tbd
 .. _IDE: https://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments#Python
 
 .. _introduction: introduction.pdf
+.. _20160909_notes: notebooks/python_basics_20160909.ipynb
 
 
 
