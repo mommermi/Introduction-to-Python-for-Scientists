@@ -26,9 +26,9 @@ Some Useful Links
 Timeline for Fall 2016:
 -----------------------
 
-======== ============================================ =========
+======== ============================================ ======================
 Lecture  Topics                                       Notes
-======== ============================================ =========
+======== ============================================ ======================
 Sept 2   **no class**                                                        
 
          *homework*: make python work on your 
@@ -38,7 +38,8 @@ Sept 2   **no class**
 	 text editor and a terminal/shell 
 	 (that's what I usually do).
 
-Sept 9   python basics, datatypes, strings, lists                 
+Sept 9   some logistics, python basics, datatypes,    `introduction`_
+         strings, lists                 
 
 Sept 16  more lists, dictionaries, sets                           
 
@@ -68,7 +69,7 @@ Nov 25   **no class** (Thanksgiving)
 Dec 2    scikit-learn
 
 Dec 9    tbd
-======== ============================================ =========
+======== ============================================ ======================
 
 
 .. _Anaconda: https://www.continuum.io/downloads
@@ -76,8 +77,10 @@ Dec 9    tbd
 .. _Python Standard Library: https://docs.python.org/2/library/index.html#library-index
 .. _Style Guide for Python: https://www.python.org/dev/peps/pep-0008/
 .. _The Zen of Python: https://www.python.org/dev/peps/pep-0020/
+
 .. _IDE: https://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments#Python
 
+.. _introduction: introduction.pdf
 
 
 
