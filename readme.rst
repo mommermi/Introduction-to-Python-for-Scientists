@@ -39,11 +39,11 @@ Sept 2   **no class**
 	 (that's what I usually do).
 
 Sept 9   some logistics, python basics, datatypes,    `introduction`_
-         strings, lists                               `20160909_notes`_
+         strings                                      `20160909_notes`_
 
-Sept 16  more lists, dictionaries, sets                           
+Sept 16  lists, dictionaries, sets, control flow                           
 
-Sept 23  control flow, file i/o, modules, exceptions, 
+Sept 23  file i/o, modules, exceptions, 
          classes     
 
 Sept 30  modules, standard libraries: math, os, 
