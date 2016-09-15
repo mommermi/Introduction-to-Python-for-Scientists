@@ -41,7 +41,8 @@ Sept 2   **no class**
 Sept 9   some logistics, python basics, datatypes,    `introduction`_
          strings                                      `20160909_notes`_
 
-Sept 16  lists, dictionaries, sets, control flow                           
+Sept 16  lists, dictionaries, sets, control flow      `20160916_notes`_
+                                                      `assignment1`_
 
 Sept 23  file i/o, modules, exceptions, 
          classes     
@@ -84,6 +85,5 @@ Dec 9    tbd
 .. _20160909_notes: notebooks/python_basics_20160909.ipynb
 
 
-
-
-
+.. _20160916_notes: Lists_and_Control_Flow_20160916.ipynb
+.. _assignment1: assignments/assignment1.pdf
