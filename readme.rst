@@ -85,5 +85,5 @@ Dec 9    tbd
 .. _20160909_notes: notebooks/python_basics_20160909.ipynb
 
 
-.. _20160916_notes: Lists_and_Control_Flow_20160916.ipynb
+.. _20160916_notes: notebooks/Lists_and_Control_Flow_20160916.ipynb
 .. _assignment1: assignments/assignment1.pdf
