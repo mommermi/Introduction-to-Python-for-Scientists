@@ -42,13 +42,13 @@ Sept 9   some logistics, python basics, datatypes,    `introduction`_
          strings                                      `20160909_notes`_
 
 Sept 16  lists, dictionaries, sets, control flow      `20160916_notes`_
-                                                      `assignment1`_
+                                                      `assignment 1`_
 
 Sept 23  file i/o, string formatting, errors,         `20160923_notes`_
-         exceptions                                   `assignment2`_
+         exceptions                                   `assignment 2`_
 
 Sept 30  functions, modules, namespaces,              `20160930_notes`_
-         standard library: math, os,                  `assignment3`_
+         standard library: math, os,                  `assignment 3`_
          datetime, urllib2, subprocess
 
 Oct 7    **no class**                                             
@@ -87,11 +87,10 @@ Dec 9    tbd
 
 
 .. _20160916_notes: notebooks/Lists_and_Control_Flow_20160916.ipynb
-.. _assignment1: assignments/assignment1.pdf
-
+.. _assignment 1: assignments/assignment1.pdf
 
 .. _20160923_notes: notebooks/FileIO_Formatting_Errors_20160923.ipynb
-.. _assignment2: assignments/assignment2.pdf
+.. _assignment 2: assignments/assignment2.pdf
 
 .. _20160930_notes: notebooks/Functions_Modules_StandardLibrary.ipynb
-.. _assignment2: assignments/assignment3.pdf
+.. _assignment 2: assignments/assignment3.pdf
