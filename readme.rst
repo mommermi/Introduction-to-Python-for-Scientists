@@ -47,7 +47,8 @@ Sept 16  lists, dictionaries, sets, control flow      `20160916_notes`_
 Sept 23  file i/o, string formatting, errors,         `20160923_notes`_
          exceptions                                   `assignment2`_
 
-Sept 30  modules, standard libraries: math, os, 
+Sept 30  functions, modules, namespaces,              `20160930_notes`_
+         standard library: math, os,                  `assignment3`_
          datetime, urllib2, subprocess
 
 Oct 7    **no class**                                             
@@ -91,3 +92,6 @@ Dec 9    tbd
 
 .. _20160923_notes: notebooks/FileIO_Formatting_Errors_20160923.ipynb
 .. _assignment2: assignments/assignment2.pdf
+
+.. _20160930_notes: notebooks/Functions_Modules_StandardLibrary.ipynb
+.. _assignment2: assignments/assignment3.pdf
