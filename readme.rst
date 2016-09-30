@@ -85,7 +85,6 @@ Dec 9    tbd
 .. _introduction: introduction.pdf
 .. _20160909_notes: notebooks/python_basics_20160909.ipynb
 
-
 .. _20160916_notes: notebooks/Lists_and_Control_Flow_20160916.ipynb
 .. _assignment 1: assignments/assignment1.pdf
 
@@ -93,4 +92,4 @@ Dec 9    tbd
 .. _assignment 2: assignments/assignment2.pdf
 
 .. _20160930_notes: notebooks/Functions_Modules_StandardLibrary.ipynb
-.. _assignment 2: assignments/assignment3.pdf
+.. _assignment 3: assignments/assignment3.pdf
