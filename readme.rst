@@ -53,18 +53,17 @@ Sept 30  functions, modules, namespaces,              `20160930_notes`_
 
 Oct 7    **no class**                                             
 
-Oct 14   numpy: basics, arrays 
-
+Oct 14   numpy: basics, arrays                        `20161014_notes`_
+                                                      `assignments 4`_
 Oct 21   **no class**
 
-Oct 28   more numpy: structured arrays, file i/o, 
-         random, statistics, linalg
+Oct 28   matplotlib
 
-Nov 4    matplotlib
+Nov 4    scipy
 
 Nov 11   **no class** (Veteran's Day)
 
-Nov 18   scipy
+Nov 18   more scipy
 
 Nov 25   **no class** (Thanksgiving)
 
@@ -93,3 +92,6 @@ Dec 9    tbd
 
 .. _20160930_notes: notebooks/Functions_Modules_StandardLibrary.ipynb
 .. _assignment 3: assignments/assignment3.pdf
+
+.. _20161014_notes: notebooks/Numpy_20161014.ipynb
+.. _assignment 3: assignments/assignment4.pdf
