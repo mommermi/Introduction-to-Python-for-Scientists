@@ -22,6 +22,8 @@ Some Useful Links
   * `Style Guide for Python`_ (how to do it)
   * `The Zen of Python`_ (>> import this)
 
+**NEW:** I have a book recommendation for you guys: *Python for Scientists*, John Stewart, Cambridge University Press (https://books.google.com/books/about/Python_for_Scientists.html?id=iekRBAAAQBAJ)
+    
 
 Timeline for Fall 2016:
 -----------------------
@@ -54,12 +56,12 @@ Sept 30  functions, modules, namespaces,              `20160930_notes`_
 Oct 7    **no class**                                             
 
 Oct 14   numpy: basics, arrays                        `20161014_notes`_
-                                                      `assignments 4`_
+                                                      `assignment 4`_
 Oct 21   **no class**
 
-Oct 28   matplotlib
-
-Nov 4    scipy
+Oct 28   plotting and fitting                         `20161028_notes`_
+                                                      `assignment 5`_
+Nov 4    more scipy
 
 Nov 11   **no class** (Veteran's Day)
 
@@ -94,4 +96,7 @@ Dec 9    tbd
 .. _assignment 3: assignments/assignment3.pdf
 
 .. _20161014_notes: notebooks/Numpy_20161014.ipynb
-.. _assignment 3: assignments/assignment4.pdf
+.. _assignment 4: assignments/assignment4.pdf
+
+.. _20161028_notes: notebooks/Function_Fitting_20161028.ipynb
+.. _assignment 5: assignments/assignment5.pdf
