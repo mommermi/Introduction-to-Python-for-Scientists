@@ -61,7 +61,9 @@ Oct 21   **no class**
 
 Oct 28   plotting and fitting                         `20161028_notes`_
                                                       `assignment 5`_
-Nov 4    more scipy
+
+Nov 4    interpolation                                `20161104_notes`_
+                                                      `assignment 6`_
 
 Nov 11   **no class** (Veteran's Day)
 
@@ -100,3 +102,7 @@ Dec 9    tbd
 
 .. _20161028_notes: notebooks/Function_Fitting_20161028.ipynb
 .. _assignment 5: assignments/assignment5.pdf
+
+.. _20161104_notes: notebooks/Interpolation_20161104.ipynb
+.. _assignment 6: assignments/assignment6.pdf
+
