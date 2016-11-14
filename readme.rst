@@ -67,13 +67,13 @@ Nov 4    interpolation                                `20161104_notes`_
 
 Nov 11   **no class** (Veteran's Day)
 
-Nov 18   more scipy
+Nov 18   **no class** 
 
 Nov 25   **no class** (Thanksgiving)
 
 Dec 2    scikit-learn
 
-Dec 9    tbd
+Dec 9    multi-threading
 ======== ============================================ ======================
 
 
