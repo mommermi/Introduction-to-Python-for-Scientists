@@ -67,7 +67,7 @@ Nov 4    interpolation                                `20161104_notes`_
 
 Nov 11   **no class** (Veteran's Day)
 
-Nov 18   **no class** 
+Nov 18   **no class**                                 `assignment 7`_
 
 Nov 25   **no class** (Thanksgiving)
 
@@ -105,4 +105,6 @@ Dec 9    multi-threading
 
 .. _20161104_notes: notebooks/Interpolation_20161104.ipynb
 .. _assignment 6: assignments/assignment6.pdf
+
+.. _assignment 7: assignments/assignment7.pdf
 
