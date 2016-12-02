@@ -71,7 +71,8 @@ Nov 18   **no class**                                 `assignment 7`_
 
 Nov 25   **no class** (Thanksgiving)
 
-Dec 2    scikit-learn
+Dec 2    scikit-learn                                 `20161202_notes`_
+                                                      `assignment 8`_
 
 Dec 9    multi-threading
 ======== ============================================ ======================
@@ -108,3 +109,5 @@ Dec 9    multi-threading
 
 .. _assignment 7: assignments/assignment7.pdf
 
+.. _20161202_notes: notebooks/MachineLearning_20161202.ipynb
+.. _assignment 8: assignments/assignment8.pdf
