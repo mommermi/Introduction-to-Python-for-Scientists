@@ -114,4 +114,5 @@ Dec 9    code optimization and multi-threading        `20161209_notes`_
 .. _assignment 8: assignments/assignment8.pdf
 
 .. _20161209_notes: notebooks/CodeOptimization_20161209.ipynb
-.. _assignment 8: assignments/assignment9.pdf
+.. _assignment 9: assignments/assignment9.pdf
+
