@@ -71,10 +71,11 @@ Nov 18   **no class**                                 `assignment 7`_
 
 Nov 25   **no class** (Thanksgiving)
 
-Dec 2    scikit-learn                                 `20161202_notes`_
+Dec 2    machine learning (scikit-learn)              `20161202_notes`_
                                                       `assignment 8`_
 
-Dec 9    multi-threading
+Dec 9    code optimization and multi-threading        `20161209_notes`_
+                                                      `assignment 9`_
 ======== ============================================ ======================
 
 
@@ -111,3 +112,6 @@ Dec 9    multi-threading
 
 .. _20161202_notes: notebooks/MachineLearning_20161202.ipynb
 .. _assignment 8: assignments/assignment8.pdf
+
+.. _20161209_notes: notebooks/CodeOptimization_20161209.ipynb
+.. _assignment 8: assignments/assignment9.pdf
